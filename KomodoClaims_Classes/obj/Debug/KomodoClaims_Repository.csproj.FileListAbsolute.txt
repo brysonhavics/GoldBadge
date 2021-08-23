@@ -1,0 +1,6 @@
+C:\Users\bryso\source\repos\KomodoClaims_Classes\bin\Debug\KomodoClaims_Classes.dll
+C:\Users\bryso\source\repos\KomodoClaims_Classes\bin\Debug\KomodoClaims_Classes.pdb
+C:\Users\bryso\source\repos\KomodoClaims_Classes\obj\Debug\KomodoClaims_Repository.csproj.CoreCompileInputs.cache
+C:\Users\bryso\source\repos\KomodoClaims_Classes\obj\Debug\KomodoClaims_Classes.dll
+C:\Users\bryso\source\repos\KomodoClaims_Classes\obj\Debug\KomodoClaims_Classes.pdb
+C:\Users\bryso\source\repos\KomodoClaims_Classes\obj\Debug\KomodoClaims_Repository.csproj.AssemblyReference.cache

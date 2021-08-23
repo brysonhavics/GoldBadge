@@ -1,0 +1,6 @@
+C:\Users\bryso\source\repos\KomodoCafe_Repository\bin\Debug\KomodoCafe_Repository.dll
+C:\Users\bryso\source\repos\KomodoCafe_Repository\bin\Debug\KomodoCafe_Repository.pdb
+C:\Users\bryso\source\repos\KomodoCafe_Repository\obj\Debug\KomodoCafe_Repository.csproj.AssemblyReference.cache
+C:\Users\bryso\source\repos\KomodoCafe_Repository\obj\Debug\KomodoCafe_Repository.csproj.CoreCompileInputs.cache
+C:\Users\bryso\source\repos\KomodoCafe_Repository\obj\Debug\KomodoCafe_Repository.dll
+C:\Users\bryso\source\repos\KomodoCafe_Repository\obj\Debug\KomodoCafe_Repository.pdb
